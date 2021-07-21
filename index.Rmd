@@ -1,0 +1,35 @@
+---
+title: "ISSC"
+image: "images/issc_circle.png"
+site: distill::distill_website
+links:
+  - label: SharePoint
+    url: "https://utoronto.sharepoint.com/sites/ArtSci-STA/ISSC/SitePages/ISSC-Home.aspx"
+  - label: DoSS
+    url:  "https://www.statistics.utoronto.ca/" 
+  - label: Email
+    url: "mailto:lizabolton@utoronto.ca"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Pronouns: she/her
+How do you say my name? 
+
+## Education
+
+**Massachusetts Institute of Technology** | Cambridge, MA
+
+Ph.D. in Computer Science | September 2009 - May 2014
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Computer Science | September 2005 - May 2009
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017

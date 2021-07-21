@@ -1,0 +1,27 @@
+---
+title: "Projects"
+description: |
+  Selected projects in R and Python.
+output:
+    distill::distill_article:
+        toc: true
+        toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## My STA303 project in R
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+## My CSC148 project in Python
+
+Look at this, how cool!
+
+
+
+
+

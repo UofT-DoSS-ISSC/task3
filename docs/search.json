@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-03T11:26:47-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "ISSC",
+      "author": [],
+      "contents": "\n\n          \n          \n          ISSC welcome site\n          \n          \n          Home\n          About\n          Projects\n          CV\n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              ISSC\n            \n            \n              \n                \n                    \n                      \n                        SharePoint\n                      \n                    \n                  \n                                    \n                    \n                      \n                        DoSS\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            Pronouns: she/her How do you say my name?\n            \n            \n            Education\n            Massachusetts Institute of Technology | Cambridge, MA\n            Ph.D. in Computer Science | September 2009 - May 2014\n            The University of California, Berkeley | Berkeley, CA\n            B.S. in Computer Science | September 2005 - May 2009\n            \n            \n            Experience\n            Google Brain | Principal Investigator | January 2018 - Present\n            Netflix | Research Scientist | June 2014 - December 2017\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              ISSC\n            \n            \n              \n                \n                                    \n                    \n                      SharePoint\n                    \n                  \n                                    \n                    \n                      DoSS\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              Pronouns: she/her How do you say my name?\n              \n              \n              Education\n              Massachusetts Institute of Technology | Cambridge, MA\n              Ph.D. in Computer Science | September 2009 - May 2014\n              The University of California, Berkeley | Berkeley, CA\n              B.S. in Computer Science | September 2005 - May 2009\n              \n              \n              Experience\n              Google Brain | Principal Investigator | January 2018 - Present\n              Netflix | Research Scientist | June 2014 - December 2017\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-06-03T11:30:31-04:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "description": "Selected projects in R and Python.\n",
+      "author": [],
+      "contents": "\n\nContents\nMy STA303 project in R\nMy CSC148 project in Python\n\nMy STA303 project in R\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\nMy CSC148 project in Python\nLook at this, how cool!\n\n\n\n",
+      "last_modified": "2021-06-03T11:26:48-04:00"
+    }
+  ],
+  "collections": []
+}
