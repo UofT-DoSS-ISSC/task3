@@ -3,6 +3,7 @@ title: "ISSC welcome site"
 description: |
   ISSC welcome site!
 output_dir: "docs"
+theme: theme.css
 navbar:
   right:
     - text: "Home"
